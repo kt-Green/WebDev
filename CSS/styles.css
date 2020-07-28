@@ -1,0 +1,43 @@
+.navbar-header{
+    height: 100px;
+}
+.navbar-header h1{ 
+    color:black;
+}
+.navbar-header a:hover, .navbar-header a:focus{
+    text-decoration: none;
+}
+/** HEADER **/
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+    margin-top: 30px;
+}
+#nav-list a{
+    color: black;
+    text-align: center;
+    font-size: 3vw;
+}
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+section p, h2{
+    color: black;
+}
+h1, section h2{
+    text-align: center;
+}
+section{
+    background-color: gray;
+    margin: 0px 15px 0px;
+    padding: 2px 15px 2px;
+}
+hr{
+    width: 100%;
+}
